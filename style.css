@@ -1,0 +1,116 @@
+/* CSS Document */
+.header{
+	background-color: #ffcd6c;
+	
+}
+.nav{
+	width:100%;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	list-style:none;
+	background:#4ba99c;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: -flex;
+	-webkit-flex-flow: row wrap;
+	justify-content: flex-end;
+	padding: 30px;
+}
+
+.nav a {
+	color: white;
+	padding: 140px;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: bentham;
+	
+	
+}
+
+#para-home, #para-menu, #para-offers, #para-facebook #para-contact {
+	height: 300px;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color:white;
+	color:#22a89f;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+#para-home {
+    background-image:
+}
+#para-menu{
+	background-image: 
+}
+#para-offers {
+	background-image: 
+}
+#para-facebook{
+	background-image: 
+}
+#para-contact {
+	background-image: 
+}
+
+
+
+.home {
+	color: #22a89f; 
+	font-size: 65px;
+	text-align: center;
+}
+
+
+	
+
+
+.menu {
+	color: #22a89f;
+	font-size: 65px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.Offers {
+	color: #22a89f;
+	font-size: 65px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+
+
+.Facebook {
+	color: #22a89f;
+	font-size: 65px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+
+.Contact {
+	color: #22a89f;
+	font-size: 65px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.footer {
+	width: 100%;
+	height: 30px;
+}
+.copyright {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	color: #22a89f;
+	font-size: 20px;
+}
